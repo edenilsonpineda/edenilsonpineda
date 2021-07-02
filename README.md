@@ -4,7 +4,7 @@
 </h1>
 
 <p align='center'>
-  A Software Developer from San Salvador, El Salvador.
+  A Software Developer from San Salvador, El Salvador. 🇸🇻
 </p>
 
 
@@ -26,7 +26,7 @@
 
 <p align='center'>
   <a href="https://www.buymeacoffee.com/edenilsonpineda">
-    <img src="https://img.shields.io/badge/buymeacoffee?&style=for-the-badge&logo=buymeacoffee&logoColor=white" />        
+    <img src="https://img.shields.io/badge/buymeacoffee-0071C5?&style=for-the-badge&logo=buymeacoffee&logoColor=white" />        
   </a>
 </p>
 
