@@ -64,7 +64,7 @@
 <img align="right" src="https://img.shields.io/badge/MySQL-3498DB?logo=mysql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Linux-181717?logo=linux&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Docker-3498DB?logo=docker&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" />
 
 - 👨‍💻 **Java Developer**\
 📆 2019 - moment\
@@ -72,10 +72,9 @@
 
 ## Technical information
 
-<img align="right" src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/LinuxMint-5ED72A?logo=linuxmint&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Debian-181717?logo=debian&logoColor=white" />
 
 **Operating Systems**
 
