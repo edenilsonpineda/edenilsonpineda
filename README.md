@@ -4,30 +4,30 @@
 </h1>
 
 <p align='center'>
-  A backend developer from Salta, Argentina.
+  A Software Developer from San Salvador, El Salvador.
 </p>
 
 
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/facundopadilla/">
+  <a href="https://www.linkedin.com/in/edenilsonpineda/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https:/https://t.me/facundopadilla">
+  <a href="https:/https://t.me/edenilsonpineda">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=facundopadilla&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=edenilsonpineda&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/ubuntu-orange.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/amd-ryzen%202200g%20-red.svg?&style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel-Core_i5_7th-0071C5?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
