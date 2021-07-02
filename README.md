@@ -26,7 +26,7 @@
 
 <p align='center'>
   <a href="https://www.buymeacoffee.com/edenilsonpineda">
-    <img src="https://img.shields.io/badge/buymeacoffee-0071C5?&style=for-the-badge&logo=buymeacoffee&logoColor=white" />        
+    <img src="https://img.shields.io/badge/buymeacoffee-FFFF00?&style=for-the-badge&logo=buymeacoffee&logoColor=white" />        
   </a>
 </p>
 
