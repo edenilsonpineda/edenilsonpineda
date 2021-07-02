@@ -29,11 +29,7 @@
   <img src="https://img.shields.io/badge/ubuntu-orange.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Intel-Core_i5_7th-0071C5?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
-
-<p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+  <img src="https://img.shields.io/badge/nvidia-gtx%201660-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 <!-- <details align='center'>
@@ -41,26 +37,22 @@
 </details>-->
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:facundo.padilla@outlook.com'>facundo.padilla@outlook.com</a>
+  📫 How to reach me: <a href='mailto:edenilsonpineda@outlook.com'>edenilsonpineda@outlook.com</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/facundopadilla/facundopadilla"></a>
+  <a href="#"><img src="https://badges.pufler.dev/visits/edenilsonpineda/edenilsonpineda"></a>
 </p>
 
 <details>
   <summary>📃 Resume</summary>
 
-
+<!--
 ## Education
 
 - 📖 **High school**\
 📆 2013 - 2018\
-📍 **Escuela de Educacion Tecnica N 3117 - Daniel O. Reyes** - Salta, Argentina
-
-- 📖 **University**\
-📆 2019 - moment\
-📍 **Universidad Catolica de Salta** - Salta, Argentina
-
+📍 **College name ** - Location
+-->
 
 ## Experience
 
@@ -69,15 +61,14 @@
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Java-E34F26?logo=java&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Pycharm-181717?logo=pycharm&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/MySQL-3498DB?logo=mysql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Linux-181717?logo=linux&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Docker-3498DB?logo=docker&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 
-
-- 👨‍💻 **Python Developer**\
-📆 2021 - moment\
-📍 **Blimop** - Jujuy, Argentina
+- 👨‍💻 **Java Developer**\
+📆 2019 - moment\
+📍 **Hightech Consulting** - San Salvador, El Salvador
 
 ## Technical information
 
@@ -90,24 +81,10 @@
 
 
 </details>
-
-<details>
-  <summary>📦 Packages</summary>
-  
-  
-
-| Name                 | A short summary                              | Install   | Status |
-| -------------------- | -------------------------------------------- | --------- | --------- |
-| [SQL2NoSQL](https://github.com/facundopadilla/sql2nosql) | Migrate data from SQL to NoSQL easily  | ![](https://img.shields.io/pypi/v/sql2nosql) | ![](https://img.shields.io/pypi/status/sql2nosql) |
-<!-- | Content Cell         | Content Cell                                | link | link | -->
-  
-</details>
   
 
 <!--
-**facundopadilla/facundopadilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+TODO: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
