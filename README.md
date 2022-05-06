@@ -64,6 +64,9 @@
 <img align="right" src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=black" />
+ 
+
 
   
 
