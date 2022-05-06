@@ -67,7 +67,7 @@
   
   
 
-- 👨‍💻 **Java Developer**\
+- 👨‍💻 **Software Architect**\
 📆 2019 - moment\
 📍 **Hightech Consulting** - San Salvador, El Salvador
 
