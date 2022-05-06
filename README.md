@@ -62,8 +62,8 @@
 <img align="right" src="https://img.shields.io/badge/Linux-181717?logo=linux&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Kubernetes-3498DB?logo=kubernetes&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
   
   
 
