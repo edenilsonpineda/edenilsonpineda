@@ -4,7 +4,7 @@
 </h1>
 
 <p align='center'>
-  A Software Developer from San Salvador, El Salvador. 🇸🇻
+  A Software Developer from San Salvador, El Salvador. :el_salvador:
 </p>
 
 
