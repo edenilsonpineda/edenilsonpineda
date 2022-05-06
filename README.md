@@ -21,16 +21,6 @@
 </p>
 
 <p align='center'>
-  You can buy me a coffee here if you want to!
-</p>
-
-<p align='center'>
-  <a href="https://www.buymeacoffee.com/edenilsonpineda">
-    <img src="https://img.shields.io/badge/buymeacoffee-fd0?&style=for-the-badge&logo=buymeacoffee&logoColor=black" />        
-  </a>
-</p>
-
-<p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=edenilsonpineda&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
@@ -72,6 +62,9 @@
 <img align="right" src="https://img.shields.io/badge/Linux-181717?logo=linux&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Kubernetes-3498DB?logo=kubernetes&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  
   
 
 - 👨‍💻 **Java Developer**\
