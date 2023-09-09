@@ -7,7 +7,7 @@ I'm a self-taught passionate Software Developer from El Salvador 🇸🇻
 
 **About me**
 
-- 💼 Software Developer specialized in Oracle SaaS and PaaS services at [Hightech Consulting](https://www.hightech-corp.com/)
+- 💼 Software Developer, specialized as Java Backend.
 
 - 💬 Ask me about anything [here](https://github.com/edenilsonpineda/edenilsonpineda/issues)
 
