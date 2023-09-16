@@ -12,4 +12,9 @@ This is my GitHub profile where I share my projects and contributions to the Tec
 - 💬 If you have any questions or suggestions, don't hesitate to reach out [here](https://github.com/edenilsonpineda/edenilsonpineda/issues)
 - 📝 Actively immersing myself in the realm of FrontEnd and Mobile technologies!
 
-- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,grafana,py,java,spring,gradle,maven,html,css,js,git,github,gitlab&perline=4)](https://skillicons.dev)
+<br/>
+<p align=""center>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,grafana,py,java,spring,gradle,maven,html,css,js,git,github,gitlab" />
+  </a>
+</p>
