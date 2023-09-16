@@ -3,15 +3,13 @@
   Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30"> I'm Edenilson 👨‍💻
 </h1>
 
-I'm a self-taught passionate Software Developer from El Salvador 🇸🇻
+I'm a self-taught passionate Software Developer from El Salvador 🇸🇻. 
+This is my GitHub profile where I share my projects and contributions to the Tech World.
 
 **About me**
 
-- 💼 Software Developer, specialized as Java Backend.
+- 💼 Software Developer, specialized in Backend and Cloud Technologies such as Java, Spring Boot, Oracle Cloud and Amazon Web Services.
+- 💬 If you have any questions or suggestions, don't hesitate to reach out [here](https://github.com/edenilsonpineda/edenilsonpineda/issues)
+- 📝 Actively immersing myself in the realm of FrontEnd and Mobile technologies!
 
-- 💬 Ask me about anything [here](https://github.com/edenilsonpineda/edenilsonpineda/issues)
-
-- 📝 Currently getting involved in FrontEnd and Mobile technologies!
-
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,grafana,py,java,spring,gradle,maven,html,css,js,git,github,gitlab&perline=4)](https://skillicons.dev)
