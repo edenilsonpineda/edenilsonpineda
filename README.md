@@ -15,6 +15,6 @@ This is my GitHub profile where I share my projects and contributions to the Tec
 <br/>
 <p align=""center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,grafana,py,java,spring,gradle,maven,html,css,js,git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,grafana,py,java,spring,hibernate,gradle,maven,html,css,js,git,github,gitlab,postgres,mysql,postman,vscode,idea,eclipse,bash" />
   </a>
 </p>
