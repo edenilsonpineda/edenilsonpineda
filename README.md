@@ -12,9 +12,8 @@ This is my GitHub profile where I share my projects and contributions to the Tec
 - 💬 If you have any questions or suggestions, don't hesitate to reach out [here](https://github.com/edenilsonpineda/edenilsonpineda/issues)
 - 📝 Actively immersing myself in the realm of FrontEnd and Mobile technologies!
 
-<br/>
-<p align=""center>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,grafana,py,java,spring,hibernate,gradle,maven,html,css,js,git,github,gitlab,postgres,mysql,postman,vscode,idea,eclipse,bash" />
+<p>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,grafana,py,java,spring,hibernate,gradle,maven,html,css,js,git,github,gitlab,postgres,mysql,postman,vscode,idea,eclipse,bash&perline=50" style="height: 80px;" />
   </a>
 </p>
