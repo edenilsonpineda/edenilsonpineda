@@ -4,10 +4,10 @@
 </h1>
 
 I'm a passionate Software Developer from El Salvador, specializing in Backend and Cloud technologies. I love diving into new tech and continuously expanding my skill set.
-**About me**
 
+**About my skills**
 
-- **Backend:** Java, Spring Boot
-- **Cloud:** Oracle Cloud, AWS
-- **Frontend:** (Currently learning) HTML, CSS, JavaScript
-- **Mobile:** (Exploring) React Native
+- **Backend:** Java, Spring Boot.
+- **Cloud:** Oracle Cloud, AWS, GCP.
+- **Frontend:** (Currently learning) SASS, TypeScript, ReactJS, NextJS.
+- **Mobile:** (Exploring) React Native, Swift.
