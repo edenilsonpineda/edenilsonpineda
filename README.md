@@ -7,7 +7,7 @@ I'm a passionate Software Developer from El Salvador, specializing in Backend an
 
 **About my skills**
 
-- **Backend:** Java, Spring Boot.
+- **Backend:** Java, Spring Boot, .NET
 - **Cloud:** Oracle Cloud, AWS, GCP.
 - **Frontend:** (Currently learning) SASS, TypeScript, ReactJS, NextJS.
 - **Mobile:** (Exploring) React Native, Swift.
