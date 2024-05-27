@@ -11,9 +11,3 @@ I'm a passionate Software Developer from El Salvador, specializing in Backend an
 - **Cloud:** Oracle Cloud, AWS
 - **Frontend:** (Currently learning) HTML, CSS, JavaScript
 - **Mobile:** (Exploring) React Native
-
-<p>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,grafana,py,java,spring,hibernate,gradle,maven,html,css,js,git,github,gitlab,postgres,mysql,postman,vscode,idea,eclipse,bash&perline=4" style="height: 96px;" />
-  </a>
-</p>
